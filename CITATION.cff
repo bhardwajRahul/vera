@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use Vera in your research, please cite the paper below."
+title: "Vera: True Simulation of Any Cloud"
+abstract: "A high-fidelity, multi-cloud emulator that runs entirely on your laptop, synthesized automatically from cloud API specifications."
+type: software
+repository-code: "https://github.com/project-vera/vera"
+authors:
+  - family-names: Bhatnagar
+    given-names: Archit
+  - family-names: Yang
+    given-names: Zhenning
+  - family-names: McClure
+    given-names: Sarah
+  - family-names: Qiu
+    given-names: Yiming
+  - family-names: Ratnasamy
+    given-names: Sylvia
+  - family-names: Chen
+    given-names: Ang
+preferred-citation:
+  type: article
+  title: "Automated Synthesis of Cloud Emulators"
+  year: 2026
+  authors:
+    - family-names: Bhatnagar
+      given-names: Archit
+    - family-names: Yang
+      given-names: Zhenning
+    - family-names: McClure
+      given-names: Sarah
+    - family-names: Qiu
+      given-names: Yiming
+    - family-names: Ratnasamy
+      given-names: Sylvia
+    - family-names: Chen
+      given-names: Ang
+  journal: "arXiv preprint arXiv:2608.23842"
+  url: "https://arxiv.org/abs/2608.23842"
+  identifiers:
+    - type: other
+      value: "arXiv:2608.23842"
+      description: "The arXiv preprint identifier"

@@ -121,3 +121,19 @@ Seeded resources (a default network, common zones, machine types, and image fami
 
 ---
 
+
+## Citation
+
+If you use Vera in your research, please cite:
+
+```bibtex
+@misc{bhatnagar2026automatedsynthesiscloudemulators,
+      title={Automated Synthesis of Cloud Emulators}, 
+      author={Archit Bhatnagar and Zhenning Yang and Sarah McClure and Yiming Qiu and Sylvia Ratnasamy and Ang Chen},
+      year={2026},
+      eprint={2608.23842},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2608.23842}, 
+}
+```
